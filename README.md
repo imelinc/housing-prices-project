@@ -1,11 +1,11 @@
 # Boston Housing Prices Prediction
 
 ## Overview
-This project aims to predict house prices in Boston using the **Boston Housing Dataset**. By leveraging regression techniques, we explore how features like the number of rooms, crime rate, and proximity to employment centers influence house prices. The project is ideal for beginners learning regression in machine learning.
+This project aims to predict house prices in Boston using the **Boston Housing Dataset**.
 
 ## Dataset
 The [Boston Housing Dataset]([https://www.kaggle.com/datasets/crawford/boston-housing](https://www.kaggle.com/datasets/schirmerchad/bostonhoustingmlnd)) contains 506 instances with 13 features, including:
-- **CRIM**: Per capita crime rate
+- **PTRATIO**: Ratio of students per teacher on the neighborhood
 - **RM**: Average number of rooms per dwelling
 - **LSTAT**: Percentage of lower-status population
 - **MEDV**: Median value of owner-occupied homes (target variable)
